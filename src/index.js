@@ -1,6 +1,6 @@
 /**
- * MicroMed Therapeutics - Core System Engine
+ * MicroMed Therapeutics - Master System Engine
  * MTC Global Holding
  */
-console.log("[*] Uruchomiono rdzeń systemowy MicroMed Therapeutics (#MicroMedTherapeutics)");
-console.log("[*] Oficjalny portal: https://micromedterapeticus.base44.app/");
+console.log("[*] Inicjalizacja master engine MicroMed Therapeutics (#MicroMedTherapeutics)");
+console.log("[*] Platforma Base44 & Webnode aktywna: https://micromedterapeticus.base44.app/");

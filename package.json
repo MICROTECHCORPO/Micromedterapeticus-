@@ -1,11 +1,11 @@
 {
   "name": "micromedterapeticus",
-  "version": "2.1.0",
-  "description": "Kompletny ekosystem platformy MicroMed Therapeutics",
+  "version": "2.2.0",
+  "description": "Master ekosystem MicroMed Therapeutics - MTC Global Holding",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "echo 'Tryb deweloperski aktywny'"
+    "dev": "echo 'Tryb master deweloperski aktywny'"
   },
   "keywords": [
     "MicroMedTherapeutics",

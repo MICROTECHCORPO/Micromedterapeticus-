@@ -6,4 +6,5 @@
 #E-ReceptaAPI
 #GeoPharmaMap
 #ThcCbdLogistics
+#GlobalFranchiseHub
 #MtcGlobalHolding
