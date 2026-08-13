@@ -1,18 +1,15 @@
 {
   "name": "micromedterapeticus",
-  "version": "2.2.0",
-  "description": "Master ekosystem MicroMed Therapeutics - MTC Global Holding",
-  "main": "src/index.js",
+  "version": "3.0.0",
+  "description": "Kompletny system MicroMed Therapeutics - MTC Global Holding",
+  "main": "src/server/index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "echo 'Tryb master deweloperski aktywny'"
+    "start": "node src/server/index.js",
+    "dev": "echo 'Uruchomiono środowisko deweloperskie MicroMed'"
   },
-  "keywords": [
-    "MicroMedTherapeutics",
-    "SiecAptekKonopnych",
-    "Base44App",
-    "WebnodeHub"
-  ],
+  "dependencies": {
+    "express": "^4.19.2"
+  },
   "author": "Daniel Lesniak",
   "license": "ISC"
 }

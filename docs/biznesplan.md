@@ -2,14 +2,14 @@
 ## MTC Global Holding
 
 ### 1. Streszczenie Menedżerskie
-MicroMed Therapeutics to innowacyjna, międzynarodowa platforma e-commerce i sieć placówek łącząca telemedycynę, systemy e-recept (NFC / PESEL) oraz bezpieczną logistykę konopną (THC/CBD).
+MicroMed Therapeutics to nowoczesny ekosystem łączący platformę telemedyczną, bezpieczną weryfikację e-recept (systemy NFC/PESEL) oraz zaawansowaną logistykę fitokannabinoidów (THC/CBD). Projekt integruje placówki stacjonarne z siecią cyfrową o zasięgu globalnym.
 
-### 2. Model Biznesowy i Franczyzowy
-* **Wariant A:** Sama Licencja i Koncepcja Cyfrowa (Platforma Base44 / Webnode).
-* **Wariant B:** Lokal Pod Klucz z Umeblowaniem i Technologią POS.
-* **Wariant C:** Lokal Pod Klucz z Pełnym Asortymentem i Zatowarowaniem All-Inclusive.
+### 2. Modele Wdrożeniowe i Franczyzowe
+* **Wariant A (Licencja Cyfrowa):** Dostęp do oprogramowania Base44/Webnode, pełna dokumentacja, księga marki, API e-recept oraz wsparcie wdrożeniowe.
+* **Wariant B (Lokal Pod Klucz z Umeblowaniem):** Kompleksowe przygotowanie placówki, profesjonalna aranżacja wnętrza, meble dedykowane, systemy POS oraz integracja techniczna bez asortymentu początkowego.
+* **Wariant C (Lokal Pod Klucz All-Inclusive):** Pełne wdrożenie stacjonarne wraz z zatowarowaniem startowym, akcesoriami B2B oraz zatwierdzonymi protokołami logistycznymi.
 
-### 3. Strategia Ekspansji Globalnej
-* **Polska:** Rynek bazowy, wdrożenia lokalne i integracja z systemami aptecznymi.
-* **Europa (UE):** Standardy Cross-Border, logistyka strefy Schengen, pełna zgodność z GDPR.
-* **Ameryka & Azja:** Giga Hub Logistics API, agregacja akcesoriów B2B oraz dystrybucja regionalna.
+### 3. Terytorialny Podział Wdrożeń
+* **Polska:** Rynek macierzysty – licencje i lokale od **50 000 PLN**.
+* **Europa (UE):** Standardy cross-border, zgodność z przepisami unijnymi i GDPR – licencje od **25 000 EUR**.
+* **Ameryka & Azja:** Kontynentalne huby logistyczne i integracja B2B – licencje od **40 000 USD**.

@@ -4,7 +4,4 @@
 #WebnodeHub
 #CannabisCareConnect
 #E-ReceptaAPI
-#GeoPharmaMap
-#ThcCbdLogistics
-#GlobalFranchiseHub
 #MtcGlobalHolding
