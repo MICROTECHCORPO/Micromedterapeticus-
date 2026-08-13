@@ -1,11 +1,11 @@
 {
   "name": "micromedterapeticus",
-  "version": "2.0.0",
-  "description": "Globalna platforma e-commerce i logistyki konopnej MicroMed Therapeutics",
-  "main": "index.js",
+  "version": "2.1.0",
+  "description": "Kompletny ekosystem platformy MicroMed Therapeutics",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "echo 'Uruchomiono środowisko deweloperskie #MicroMedTherapeutics'"
+    "start": "node src/index.js",
+    "dev": "echo 'Tryb deweloperski aktywny'"
   },
   "keywords": [
     "MicroMedTherapeutics",
