@@ -1,0 +1,9 @@
+#MicroMedTherapeutics
+#SiecAptekKonopnych
+#Base44App
+#WebnodeHub
+#CannabisCareConnect
+#E-ReceptaAPI
+#GeoPharmaMap
+#ThcCbdLogistics
+#MtcGlobalHolding
