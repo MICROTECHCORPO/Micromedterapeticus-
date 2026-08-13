@@ -8,8 +8,6 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
-
-// Podpięcie modułu kurierskiego
 app.use('/api/courier', courierRouter);
 
 app.get('/api/status', (req, res) => {
@@ -18,10 +16,10 @@ app.get('/api/status', (req, res) => {
         project: 'MicroMed Therapeutics',
         owner: 'Daniel Leśniak',
         platform: 'https://micromedterapeticus.base44.app/',
-        modules: ['Telemedycyna', 'E-Recepty', 'MTC Courier Logistics']
+        modules: ['Telemedycyna', 'E-Recepty', 'MTC Courier Logistics & GDP']
     });
 });
 
 app.listen(PORT, () => {
-    console.log(`[Server] MicroMed Therapeutics z modułem kurierskim uruchomiony na porcie ${PORT}`);
+    console.log(`[Server] MicroMed Therapeutics uruchomiony na porcie ${PORT}`);
 });

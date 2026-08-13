@@ -1,11 +1,21 @@
 # MicroMed Therapeutics | MTC Global Holding
 
-Zaawansowany system telemedyczny, platforma e-recept oraz zintegrowana sieć logistyczno-kurierska.
+Zaawansowany system telemedyczny, platforma e-recept oraz zintegrowana sieć logistyczno-kurierska (Ostatnia Mila).
 
-## Dokumentacja i Analiza Rynku
-- [Analiza Braków i Architektura Kurierska](./docs/analiza-brakow-i-kurierzy.md)
-- [Pełny Biznesplan i Analiza Rynku](./docs/biznesplan-pelny.md)
-- [Szczegółowy Kosztorys i Wyceny](./docs/kosztorys-szczegolowy.md)
+## Tagi Ekosystemu
+#MicroMedTherapeutics
+#SiecAptekKonopnych
+#Base44App
+#WebnodeHub
+#CannabisCareConnect
+#E-ReceptaAPI
+#GeoPharmaMap
+#ThcCbdLogistics
+#GlobalFranchiseHub
+#MtcGlobalHolding
+
+## Dokumentacja i Architektura Kurierska
+- [Architektura Logistyczna GDP](./docs/architektura-logistyczna-gdp.md)
 
 ## Zarządzanie i Kontakt
 - **Właściciel:** Daniel Leśniak
