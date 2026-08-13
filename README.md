@@ -1,11 +1,10 @@
 # MicroMed Therapeutics | MTC Global Holding
 
-Oficjalna platforma i system zarządzania siecią aptek konopnych oraz telemedycyny.
+Oficjalna platforma, system zarządzania siecią aptek konopnych oraz telemedycyny.
 
-## Architektura Systemu
-- **Frontend / Portal:** React, TypeScript, Tailwind CSS (`src/client`)
-- **Backend / API:** Node.js, Express, Obsługa E-Recept NFC/PESEL (`src/server`)
-- **Dokumentacja Biznesowa:** Kompleksowy biznesplan i wyceny wdrożeniowe (`docs`)
+## Dokumentacja Projektowa w repozytorium:
+- [Pełny Biznesplan i Analiza Rynku](./docs/biznesplan-pelny.md)
+- [Szczegółowy Kosztorys i Wyceny](./docs/kosztorys-szczegolowy.md)
 
 ## Kontakt i Zarządzanie
 - **Właściciel:** Daniel Leśniak
